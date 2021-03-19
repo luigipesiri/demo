@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-test difftool, on a new branch
+Just something going on
